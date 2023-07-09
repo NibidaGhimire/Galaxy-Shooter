@@ -1,5 +1,6 @@
 # Galaxy-Shooter
 
+A 2D Shooter game made in Unity.
 
 W - Forward
 S - Backward
